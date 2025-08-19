@@ -42,7 +42,7 @@ In pancreatic ductal adenocarcinoma (PDAC), venous invasion (VI) is a critical s
     - processed_phenocyler_data.csv which contains PanCK positive cells with VI/PDAC foci annotated, cell-level Moffitt classifications, foci-level             moffitt classifications. 
 
 ## Scripts
-### All scripts are located at SAKJDHAKSDHKAJSHDKAJSHDLAKSJHDAKSJDHALSKJDHALSKJHDALSKJDHALSKJDHASLKDJHALSKJDHALSKJHD
+### All scripts are on Zenodo: 
 
 Execute scripts in the order that they are numbered, as outputs will be used as inputs for later scripts. The three scripts with the prefix "00" contain custom functions that will be imported at the beginning of each script. These scripts do not produce any objects and do not have to be run independently. 
 
